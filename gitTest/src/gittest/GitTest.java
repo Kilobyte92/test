@@ -16,6 +16,7 @@ public class GitTest {
      */
     public static void main(String[] args) {
         System.out.println("Cerco disperatamente di capire come funziona github");
+        System.out.println("Questo è un cambiamento per vedere se ho capito qualcosa");
     }
     
 }
